@@ -8,7 +8,7 @@
         public AppUser(int id, string name)
         {
             Id = id;
-            Name = name;
+            Name = name;  
         }
     }
 }
